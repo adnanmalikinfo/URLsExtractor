@@ -6,7 +6,7 @@ import pyperclip
 linksRegex = re.compile(r'''
  https?://[a-zA-Z0-9.-]{0,100}
  /?
- [a-zA-Z0-9.=/%?$#@*(){}-]{1,200}
+ [a-zA-Z0-9.=:/%?$#@*(){}-]{1,200}
  
  ''', re.VERBOSE)
 
