@@ -1,6 +1,6 @@
 
 # URLsExtractor
-While hacking or pen-testing you oftenly came across source code files, JavaScripts files, HTML files or some other huge files. If you want to extract the URLs/Links from it, this is a short python script to print all the URLs in a nice format and copy it to your clipboard.
+While hacking or pen-testing you oftenly came across source code files, JavaScripts files, HTML files or some other big files. If you want to extract the URLs/Links from it, this is a short python script to print all the URLs in a nice format and copy it to your clipboard. It's such a tireome task to see for diferent URLS or links. So here is simple python script to make it easy for you
 
 # Requirements
 You need python3 and pyperclip package installed. 
