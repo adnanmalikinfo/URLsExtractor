@@ -6,7 +6,7 @@ While hacking or pen-testing you oftenly came across source code files, JavaScri
 You need python3 and pyperclip package installed. 
 
 #RUN
-Copy the file, source code or large file to your clip board
-Go to directory you have downloaded URLsExtractor to.
-Run "python3 linkExtractor.py" 
+Copy the file, source code or large file to your clip board \n
+Go to directory you have downloaded URLsExtractor to.\n
+Run "python3 linkExtractor.py" \n
 You will have a pretty print and the results will be saved to your clipboard as well
